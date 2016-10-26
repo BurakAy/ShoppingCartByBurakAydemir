@@ -30,3 +30,6 @@ C:\Users\Burak\Desktop\ShoppingCartByBurakAydemir\ShoppingCartByBurakAydemir\obj
 C:\Users\Burak\Desktop\ShoppingCartByBurakAydemir\ShoppingCartByBurakAydemir\obj\Debug\burakAydemirFinalProject.frmItemImage.resources
 C:\Users\Burak\Desktop\ShoppingCartByBurakAydemir\ShoppingCartByBurakAydemir\obj\Debug\ShoppingCartByBurakAydemir.Properties.Resources.resources
 C:\Users\Burak\Desktop\ShoppingCartByBurakAydemir\ShoppingCartByBurakAydemir\obj\Debug\ShoppingCart.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\Projects\ShoppingCartByBurakAydemir\ShoppingCartByBurakAydemir\bin\Debug\ShoppingCartByBurakAydemir.exe.config
+C:\Users\Burak\Desktop\Projects\ShoppingCartByBurakAydemir\ShoppingCartByBurakAydemir\obj\Debug\ShoppingCartByBurakAydemir.exe
+C:\Users\Burak\Desktop\Projects\ShoppingCartByBurakAydemir\ShoppingCartByBurakAydemir\obj\Debug\ShoppingCartByBurakAydemir.pdb
